@@ -6,7 +6,7 @@
       "contentType": "firstname",
       "label": "Prénom",
       "autocomplete": "given-name",
-      "placeholder": "Camille"
+      "placeholder": "Jonjon"
     },
     {
       "key": "lastname",
